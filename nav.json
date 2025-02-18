@@ -28,6 +28,11 @@
           "name": "Kimi",
           "url": "https://kimi.moonshot.cn/",
           "icon": "🌊"
+        },
+        {
+          "name": "claude",
+          "url": "https://claude.ai/",
+          "icon": "🔌"
         }
       ]
     },
