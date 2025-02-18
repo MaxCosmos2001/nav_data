@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "AI助手",
+      "icon": "🤖",
+      "sites": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "icon": "🧠"
+        },
+        {
+          "name": "Qwen",
+          "url": "https://chat.qwenlm.ai",
+          "icon": "🦜"
+        },
+        {
+          "name": "Deepseek",
+          "url": "https://www.deepseek.com",
+          "icon": "🔍"
+        },
+        {
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "icon": "✨"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://kimi.moonshot.cn/",
+          "icon": "🌊"
+        }
+      ]
+    },
+    {
+      "name": "开发工具",
+      "icon": "⚡",
+      "sites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com",
+          "icon": "📦"
+        },
+        {
+          "name": "Gitee",
+          "url": "https://gitee.com",
+          "icon": "🏠"
+        },
+        {
+          "name": "DevDocs",
+          "url": "https://devdocs.io",
+          "icon": "📚"
+        },
+        {
+          "name": "掘金",
+          "url": "https://juejin.cn",
+          "icon": "💎"
+        },
+        {
+          "name": "CSDN",
+          "url": "https://csdn.net",
+          "icon": "🔧"
+        }
+      ]
+    }
+  ]
+}
