@@ -71,6 +71,22 @@
           "icon": "🔧"
         }
       ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "📁",
+      "sites": [
+        {
+          "name": "Trae",
+          "url": "https://www.trae.ai/",
+          "icon": "👉"
+        },
+        {
+          "name": "Cursor",
+          "url": "https://www.cursor.com/",
+          "icon": "👉"
+        }
+      ]
     }
   ]
 }
