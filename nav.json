@@ -30,9 +30,14 @@
           "icon": "🌊"
         },
         {
-          "name": "claude",
+          "name": "Claude",
           "url": "https://claude.ai/",
           "icon": "🔌"
+        },
+        {
+          "name": "Grok",
+          "url": "https://grok.com/?referrer=website",
+          "icon": "👾"
         }
       ]
     },
